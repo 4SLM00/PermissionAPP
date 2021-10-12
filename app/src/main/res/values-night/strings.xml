@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PermissionAPP</string>
     <string name="attention">Attenzione!!</string>
     <string name="should_grant">per utilizzare al meglio l\'app le raccomandiamo di accettare l\'utilizzo del gps</string>
     <string name="ok">Okay</string>
