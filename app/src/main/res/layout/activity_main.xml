@@ -10,11 +10,12 @@
         android:id="@+id/button"
         android:layout_width="187dp"
         android:layout_height="101dp"
+        android:backgroundTint="@android:color/transparent"
         android:text="GPS"
         android:textColor="@color/purple_700"
-        android:backgroundTint="@android:color/transparent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.368"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
